@@ -19,6 +19,7 @@
         <activity android:name=".DrinkCategoryActivity" />
         <activity android:name=".FoodCategoryActivity" />
         <activity android:name=".StoreCategoryActivity" />
+        <activity android:name=".DrinkActivity"></activity>
     </application>
 
 </manifest>
